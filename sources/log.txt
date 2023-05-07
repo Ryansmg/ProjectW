@@ -1,0 +1,127 @@
+1:57:18.967 | Program start
+1:57:18.989 | Time: Mon May 08 01:57:18 KST 2023
+1:57:19.13 | User: DEV_USER
+1:57:25.910 | Generating frame
+1:57:26.278 | Spawning object: nullObj
+1:57:26.286 | Spawning buttonObj: nullBtnObj
+1:57:26.293 | Spawning object: title0
+1:57:26.296 | Spawning buttonObj: playButton
+1:57:26.298 | Spawning buttonObj: exitButton
+1:57:26.299 | Spawning object: player
+1:57:26.343 | Starting Play thread
+1:57:57.607 | fps changed: from 60 to 120
+1:58:1.748 | Spawning object: devVFText
+1:58:11.671 | fps changed: from 120 to 240
+1:58:23.434 | fps changed: from 240 to 10
+1:58:30.102 | fps changed: from 10 to 1
+1:58:35.295 | fps changed: from 1 to 60
+1:59:0.903 | Spawning object: devVPKText
+1:59:0.904 | Spawning object: devVPKText2
+1:59:10.993 | Generating frame
+1:59:10.993 | Play thread ended
+1:59:12.608 | Full screen device: 0
+1:59:12.663 | Removed Object: title0
+1:59:12.665 | Removed Object: player
+1:59:12.667 | Removed buttonObj: playButton
+1:59:12.668 | Removed buttonObj: exitButton
+1:59:12.669 | Spawning object: title0
+1:59:12.670 | Spawning buttonObj: playButton
+1:59:12.672 | Spawning buttonObj: exitButton
+1:59:12.674 | Spawning object: player
+1:59:12.705 | Starting Play thread
+1:59:16.828 | Generating frame
+1:59:16.837 | Play thread ended
+1:59:16.913 | Removed Object: title0
+1:59:16.914 | Removed Object: player
+1:59:16.914 | Removed buttonObj: playButton
+1:59:16.914 | Removed buttonObj: exitButton
+1:59:16.914 | Spawning object: title0
+1:59:16.915 | Spawning buttonObj: playButton
+1:59:16.916 | Spawning buttonObj: exitButton
+1:59:16.916 | Spawning object: player
+1:59:16.927 | Starting Play thread
+1:59:23.408 | Frames: 4804
+1:59:23.409 | Program close at frame104 (manual exit)
+========================================================
+1:56:51.960 | Program start
+1:56:51.979 | Time: Mon May 08 01:56:51 KST 2023
+1:56:51.980 | User: DEV_USER
+1:57:0.711 | Generating frame
+1:57:0.896 | Spawning object: nullObj
+1:57:0.905 | Spawning buttonObj: nullBtnObj
+1:57:0.914 | Spawning object: title0
+1:57:0.917 | Spawning buttonObj: playButton
+1:57:0.919 | Spawning buttonObj: exitButton
+1:57:0.920 | Spawning object: player
+1:57:0.948 | Starting Play thread
+1:57:5.985 | Frames: 141
+1:57:5.985 | Program close at LibPreAction18(Manual exit on menu)
+========================================================
+1:54:15.596 | Program start
+1:54:15.612 | Time: Mon May 08 01:54:15 KST 2023
+1:54:15.646 | User: DEV_USER
+1:54:51.705 | Generating frame
+1:54:51.894 | Spawning object: nullObj
+1:54:51.900 | Spawning buttonObj: nullBtnObj
+1:54:51.904 | Spawning object: player
+1:54:51.935 | Spawning object: obs0
+1:54:51.937 | Spawning object: obs1
+1:54:51.937 | Spawning object: obs2
+1:54:51.938 | Spawning object: obs3
+1:54:51.939 | Spawning object: obs4
+1:54:51.941 | Spawning object: obs5
+1:54:51.941 | Spawning object: obs6
+1:54:51.942 | Spawning object: obs7
+1:54:51.943 | Spawning object: obs8
+1:54:51.944 | Spawning object: obs9
+1:54:51.945 | Spawning object: obs10
+1:54:51.946 | Spawning object: obs11
+1:54:51.947 | Spawning object: obs12
+1:54:51.947 | Spawning object: obs13
+1:54:51.988 | Starting Play thread
+1:55:14.919 | Spawning object: devVFText
+1:55:25.78 | Spawning object: devVPKText
+1:55:25.81 | Spawning object: devVPKText2
+1:56:0.161 | fps changed: from 601:56:7.896 | fps changed: from 60 to 9999999
+1:56:35.152 | Frames: 8557
+1:56:35.153 | Program close at frame104 (manual exit)
+========================================================
+1:32:59.108 | Program start
+1:32:59.117 | Time: Sun Dec 18 01:32:59 KST 2022
+1:32:59.132 | User: DEV_USER
+1:33:5.561 | Generating frame
+1:33:5.653 | Spawning object: nullObj
+1:33:5.660 | Spawning buttonObj: nullBtnObj
+1:33:5.666 | Spawning object: title0
+1:33:5.668 | Spawning buttonObj: playButton
+1:33:5.669 | Spawning buttonObj: exitButton
+1:33:5.670 | Spawning object: player
+1:33:5.699 | Starting Play thread
+1:33:34.15 | Frames: 1363
+1:33:34.15 | Program close at frame104 (manual exit)
+========================================================
+1:32:13.306 | Program start
+1:32:13.316 | Time: Sun Dec 18 01:32:13 KST 2022
+1:32:13.330 | User: DEV_USER
+1:32:23.236 | Generating frame
+1:32:23.310 | Spawning object: nullObj
+1:32:23.316 | Spawning buttonObj: nullBtnObj
+1:32:23.317 | Spawning object: player
+1:32:23.344 | Spawning object: obs0
+1:32:23.344 | Spawning object: obs1
+1:32:23.345 | Spawning object: obs2
+1:32:23.346 | Spawning object: obs3
+1:32:23.346 | Spawning object: obs4
+1:32:23.347 | Spawning object: obs5
+1:32:23.348 | Spawning object: obs6
+1:32:23.348 | Spawning object: obs7
+1:32:23.349 | Spawning object: obs8
+1:32:23.349 | Spawning object: obs9
+1:32:23.350 | Spawning object: obs10
+1:32:23.351 | Spawning object: obs11
+1:32:23.351 | Spawning object: obs12
+1:32:23.352 | Spawning object: obs13
+1:32:23.353 | Starting Play thread
+1:32:54.609 | Frames: 1272
+1:32:54.610 | Program close at frame104 (manual exit)
+========================================================

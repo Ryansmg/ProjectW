@@ -1,0 +1,15 @@
+JMenuBar 높이 = 60
+Main.window 오른쪽 벽 : Main.window.getWidth() - 14
+
+KeyCode
+ctrl = 17
+shift = 16
+alt = 18
+
+flower
+BrainLeagueTimeTable
+gameW
+Library
+
+1200, 800
+player (80, 80)
